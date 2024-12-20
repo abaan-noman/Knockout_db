@@ -1,6 +1,5 @@
 # Knockout DB Project 
 Name: Abaan Noman 
-Youtube Demonstration Link: https://youtu.be/h8TxbMfx8O0
 
 ## Database File Information
 
